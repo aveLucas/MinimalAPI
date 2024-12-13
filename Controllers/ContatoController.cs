@@ -30,7 +30,7 @@ namespace Minimal_API.Controllers
 
             if (contato.DataDeRegistro == DateTime.MinValue)
             {
-                return BadRequest(new { Erro = "A data de registro não pode ser vazia" });
+                return BadRequest(new { Erro = "A data de registro não pode ser vazia." });
             }
             
             bool contatoExiste = _context.Contatos.Any(c => c.Nome == contato.Nome || c.Numero == contato.Numero);
@@ -84,7 +84,7 @@ namespace Minimal_API.Controllers
 
             if (contato.DataDeRegistro == DateTime.MinValue)
             {
-                return BadRequest(new { Erro = "A data de registro não pode ser vazia" });
+                return BadRequest(new { Erro = "A data de registro não pode ser vazia." });
             }
 
             if (contatoId == null && contatoNome == null)

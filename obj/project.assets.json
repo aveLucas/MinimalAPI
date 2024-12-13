@@ -5108,11 +5108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\Coding\\Dio - Desafios de projeto\\Bootcamp (Randstad - Backend com .NET)\\MinimalAPI\\Minimal-API.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\Coding\\Dio - Desafios de projeto\\Bootcamp (Randstad - Backend com .NET)\\TesteAPI\\Minimal-API.csproj",
       "projectName": "Minimal-API",
-      "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Coding\\Dio - Desafios de projeto\\Bootcamp (Randstad - Backend com .NET)\\MinimalAPI\\Minimal-API.csproj",
+      "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Coding\\Dio - Desafios de projeto\\Bootcamp (Randstad - Backend com .NET)\\TesteAPI\\Minimal-API.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Coding\\Dio - Desafios de projeto\\Bootcamp (Randstad - Backend com .NET)\\MinimalAPI\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Coding\\Dio - Desafios de projeto\\Bootcamp (Randstad - Backend com .NET)\\TesteAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
